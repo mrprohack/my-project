@@ -1,0 +1,44 @@
+{
+  "name": "last30days-chatgpt",
+  "version": "0.1.0",
+  "description": "ChatGPT-native research skill for understanding what changed and what people are saying about a topic over the last 30 days.",
+  "author": {
+    "name": "mrprohack",
+    "url": "https://github.com/mrprohack"
+  },
+  "homepage": "https://github.com/mrprohack/my-project",
+  "repository": "https://github.com/mrprohack/my-project",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "last-30-days",
+    "recency",
+    "reddit",
+    "youtube",
+    "hacker-news",
+    "github",
+    "trends",
+    "news",
+    "community-research",
+    "chatgpt"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Last 30 Days Research",
+    "shortDescription": "Research what changed and what people are saying now.",
+    "longDescription": "A ChatGPT-native skill for recent-topic research across primary sources, the web, Reddit, YouTube, Hacker News, GitHub, and other accessible community sources, with recency checks, corroboration, and citations.",
+    "developerName": "mrprohack",
+    "category": "Research",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "websiteURL": "https://github.com/mrprohack/my-project",
+    "defaultPrompt": [
+      "What changed in AI video generation in the last 30 days?",
+      "What are developers saying about the latest coding agents?",
+      "Compare the last 30 days of discussion around two products"
+    ],
+    "brandColor": "#10A37F"
+  }
+}
