@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last 30 Days Research"
+  short_description: "Research what changed and what people are saying now"
+  default_prompt: "Research this topic across the last 30 days and give me an evidence-grounded summary with current citations."
